@@ -1,0 +1,12 @@
+{
+  "name": "deadline-guard-v3",
+  "version": "3.0.0",
+  "description": "Smart Academic Load Balancer - Calendar, Notifications, CSV Export",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

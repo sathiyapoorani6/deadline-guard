@@ -1,0 +1,58 @@
+[
+  {
+    "id": "mo5lnss1l9vh",
+    "subject": "Math Assignment",
+    "date": "2026-04-21",
+    "priority": "high",
+    "done": false,
+    "createdAt": "2026-04-19T10:04:59.377Z"
+  },
+  {
+    "id": "mo5lnssdjrza",
+    "subject": "Physics Lab Report",
+    "date": "2026-04-21",
+    "priority": "high",
+    "done": false,
+    "createdAt": "2026-04-19T10:04:59.389Z"
+  },
+  {
+    "id": "mo5lnssnh6b1",
+    "subject": "English Essay",
+    "date": "2026-04-23",
+    "priority": "medium",
+    "done": false,
+    "createdAt": "2026-04-19T10:04:59.399Z"
+  },
+  {
+    "id": "mo5lnsssa1pg",
+    "subject": "History Project",
+    "date": "2026-04-23",
+    "priority": "low",
+    "done": false,
+    "createdAt": "2026-04-19T10:04:59.404Z"
+  },
+  {
+    "id": "mo5lnssy3gg7",
+    "subject": "Computer Science HW",
+    "date": "2026-04-25",
+    "priority": "high",
+    "done": false,
+    "createdAt": "2026-04-19T10:04:59.410Z"
+  },
+  {
+    "id": "mo5lnst24i9z",
+    "subject": "Biology Practical",
+    "date": "2026-04-27",
+    "priority": "medium",
+    "done": false,
+    "createdAt": "2026-04-19T10:04:59.414Z"
+  },
+  {
+    "id": "mo5lnst8b5i6",
+    "subject": "Tamil Assignment",
+    "date": "2026-04-28",
+    "priority": "low",
+    "done": false,
+    "createdAt": "2026-04-19T10:04:59.420Z"
+  }
+]
